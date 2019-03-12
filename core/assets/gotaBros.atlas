@@ -1,0 +1,90 @@
+
+gotaBros.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bucket
+  rotate: false
+  xy: 2, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+droplet
+  rotate: false
+  xy: 68, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 134, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+robin_down
+  rotate: false
+  xy: 347, 19
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+robin_left
+  rotate: false
+  xy: 266, 21
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: 1
+robin_left
+  rotate: false
+  xy: 425, 21
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: 3
+robin_left
+  rotate: false
+  xy: 464, 17
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: 2
+robin_right
+  rotate: false
+  xy: 307, 20
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: 3
+robin_right
+  rotate: false
+  xy: 386, 19
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: 1
+robin_right
+  rotate: false
+  xy: 499, 17
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: 2
+rock
+  rotate: false
+  xy: 200, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

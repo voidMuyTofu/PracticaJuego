@@ -1,0 +1,167 @@
+
+atlas.pack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Missile
+  rotate: false
+  xy: 351, 322
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: 1
+bucket
+  rotate: false
+  xy: 177, 150
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 437, 421
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+disparo
+  rotate: false
+  xy: 99, 2
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: 1
+disparo
+  rotate: false
+  xy: 121, 2
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: 2
+droplet
+  rotate: false
+  xy: 99, 57
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 2, 112
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: 7
+explosion
+  rotate: false
+  xy: 177, 405
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: 8
+explosion
+  rotate: false
+  xy: 2, 12
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: 9
+explosion
+  rotate: false
+  xy: 177, 305
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: 6
+explosion
+  rotate: false
+  xy: 274, 405
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: 5
+explosion
+  rotate: false
+  xy: 177, 216
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: 4
+explosion
+  rotate: false
+  xy: 269, 316
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: 3
+explosion
+  rotate: false
+  xy: 99, 123
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: 2
+explosion
+  rotate: false
+  xy: 363, 416
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: 1
+frog
+  rotate: false
+  xy: 437, 439
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+nave_dch
+  rotate: false
+  xy: 391, 341
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: 1
+nave_dch
+  rotate: false
+  xy: 243, 141
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: 2
+nave_iz
+  rotate: false
+  xy: 243, 66
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: 1
+nave_iz
+  rotate: false
+  xy: 260, 230
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: 2
+nave_parado
+  rotate: false
+  xy: 305, 241
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+navefinal
+  rotate: false
+  xy: 2, 212
+  size: 173, 291
+  orig: 173, 291
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 177, 84
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
